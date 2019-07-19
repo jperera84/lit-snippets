@@ -4,6 +4,7 @@
 	"description": "Web Components Snippets - Lit-Element",
 	"version": "0.0.1",
 	"publisher": "jperera84",
+	"repository": "https://github.com/jperera84/lit-snippets",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
