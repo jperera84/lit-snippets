@@ -3,7 +3,7 @@
 	"displayName": "lit-Snippets",
 	"description": "Web Components Snippets - Lit-Element",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "jperera84",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
