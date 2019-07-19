@@ -1,0 +1,21 @@
+{
+	"name": "bo-snnipets",
+	"displayName": "lit-Snippets",
+	"description": "Web Components Snippets - Lit-Element",
+	"version": "0.0.1",
+	"publisher": "vscode-samples",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets.json"
+			}
+		]
+	}
+}
